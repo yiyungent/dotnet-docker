@@ -1,0 +1,1 @@
+docker build -t yiyungent/aspnetcore-runtime-3.1 -f aspnetcore-runtime-3.1.Dockerfile .
